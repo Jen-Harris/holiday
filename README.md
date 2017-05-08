@@ -1,2 +1,3 @@
 # holiday
-Website for Holiday in Guatemala &amp; Belize 
+A one page website showing a recent holiday to Guatemala &amp; Belize.
+
