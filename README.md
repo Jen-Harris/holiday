@@ -1,4 +1,4 @@
-# holiday
+# Holiday
 A one page website showing a recent holiday to Guatemala &amp; Belize.
 
 We went to several places, including: 
@@ -8,6 +8,7 @@ We went to several places, including:
 * Flores 
 * Caye Caulker
 
+---
 
 ### Code:
 * CSS
